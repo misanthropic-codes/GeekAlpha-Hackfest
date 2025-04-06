@@ -1,11 +1,10 @@
-"use client"
 import React from 'react'
-import Portfolio from '../Portfolio'
+import Insights from '../Insights'
 
 const page = () => {
   return (
     <div>
-        <Portfolio />
+        <Insights />
     </div>
   )
 }
